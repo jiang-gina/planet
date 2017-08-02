@@ -1,0 +1,13 @@
+git checkout repository_id filename  #check out a file from repository
+
+git reset HEAD mars.txt  #from statged to unstaged.
+
+#ignore the files
+
+vi .gitignore
+
+#put the file names in the .gitignore
+
+moon/figures/*
+
+
